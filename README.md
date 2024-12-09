@@ -1,6 +1,6 @@
 # Marvel Wars
 ## Description
-A Turn-Based strategy game developed by Java Spring, where 2 Players select their names, select their champions, select their leaders and fight!
+A Turn-Based strategy game developed by Java Swing, where 2 Players select their names, select their champions, select their leaders and fight!
 Built during the first year of University.
 
 ![image](https://github.com/user-attachments/assets/3f92a089-aae1-4a6d-9a8f-5353acdc54bc)
